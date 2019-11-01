@@ -1,0 +1,6 @@
+numpy
+plotly
+pandas
+gmplot
+os
+json
